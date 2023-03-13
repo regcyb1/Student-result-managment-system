@@ -2,7 +2,7 @@
 
 System Includes:
 Admin verificatiom
-OPT verification for student's privacy(used mailtrap.io)
+OPT verification for student's privacy(used http://mailtrap.io)
 
 
 
