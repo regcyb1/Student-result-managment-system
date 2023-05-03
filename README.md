@@ -3,7 +3,8 @@
 System Includes:
 Admin verificatiom
 OPT verification for student's privacy(used http://mailtrap.io)
-
+For Admin: Username=admin
+            password=Test@123
 
 
 Install XAMPP and Place the project file in the htdocs file i.e ..\c\xampp\htdocs
